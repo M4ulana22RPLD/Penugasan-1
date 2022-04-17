@@ -1,3 +1,5 @@
-1. Buat repo github
+
 2. Copy link github & cantumkan di form
 3. Screenshot bukti berhasil create repo github & cantumkan di form
+4.mengcommit file
+5.menghapus no 1 buat akun repository
